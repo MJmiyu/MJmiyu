@@ -17,16 +17,13 @@
  Dabbling in design, prototyping and project management.
  
 --- 
-
- Here on this github are some of the projects from my studies.
- 
  
  
   📫 Some Links:
  - [Linkedin](www.linkedin.com/in/marthe-neverdal)
  - [Portfolio](miyuchan.net)
 --- 
- :email: mjneverdal@outlook.com
+
 
 
 
